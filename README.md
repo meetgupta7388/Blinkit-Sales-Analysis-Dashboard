@@ -20,12 +20,12 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/meetgupta007/Blinkit-Sales-Analysis.git
+    git clone https://github.com/meetgupta007/Blinkit-Sales-Analysis Dashboard.git
     ```
 
 2. **Open the Power BI file**:
     - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-    - Open `Blinkit Sales Analysis.pbix` with Power BI Desktop.
+    - Open `Blinkit Sales Analysis Dashboard.pbix` with Power BI Desktop.
 
 3. **Load your data**:
     - Replace the sample data with your own sales data.
